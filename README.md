@@ -1,3 +1,7 @@
+Fork from https://github.com/hahnyuan/nn_tools.git
+
+新增一些从pytorch转caffe的层，转换yolov5，主要是针对一些老芯片的量化
+
 # Neural Network Tools: Converter, Constructor and Analyser
 
  Providing a tool for some fashion neural network frameworks.
